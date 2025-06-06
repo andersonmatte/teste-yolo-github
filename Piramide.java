@@ -18,7 +18,6 @@ public class Piramide {
             for (int j = 0; j < traços; j++) {
                 System.out.print("-");
             }
-
             // pular linha
             System.out.println();
         }
